@@ -30,5 +30,5 @@
 
 >
 #
-><p>According to official documentation, MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention approach to configuration. 
+ ><p>According to official documentation, <a href=https://mapstruct.org/>MapStruct</a> is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention approach to configuration. 
 >The generated mapping code uses simple method invocations and is therefore fast, secure and easy to understand.</p>
