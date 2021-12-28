@@ -10,7 +10,7 @@
 <p><h3>Why use spring boot and other technologies, Postman, Heroku, MapStruct. </h3></p>
 
 
-><p>Spring Boot makes it easy to create stand-alone,
+><p><a href=https://spring.io/projects/spring-boot#overview>Spring Boot</a> Boot makes it easy to create stand-alone,
 > production-grade Spring based Applications that you can <i>"just run"</i>.
 >We take an opinionated view of the Spring platform and third-party libraries so you can get started with minimum fuss.
  >Most Spring Boot applications need minimal Spring configuration.
@@ -18,9 +18,11 @@
  >or instructions about how to upgrade from an earlier release,
  >check out the project release notes section on our wiki.</p>
 #
+><p>What is <a href=https://www.postman.com/>Postman?📨</a>
+>Postman is an API platform for building and using APIs. 
+>Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.</p>
 
-><p>Postman📨 is an API Client that makes it easy for developers to create, share, test, and document APIs.
->This is done by allowing users to create and save simple and complex HTTP and HTTP requests, as well as read their responses.</p>
+
 #
 >[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
 ><p>Platform-as-a-service options help companies build and manage high-performance applications. A reliable <a href=https://www.platon.com.br/blog/conheca-as-diferencas-entre-iaas-paas-e-saas-e-qual-modelo-ideal-para-o-seu-negocio/">PaaS</a> offering can help developers achieve simplified API development and perform database, IoT, communications, and process management effortlessly.
