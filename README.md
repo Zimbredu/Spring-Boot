@@ -1,11 +1,13 @@
+
 [![contato](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()</p>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" 
- width"40" height="40"/></p>
+[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+
+
 
 <p><h1>Spring-Boot<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width"40" height="40" /></h1></p>
 
-<p><h3>Why use spring boot and other technologies, Postman, Heroku. </h3></p>
+<p><h3>Why use spring boot and other technologies, Postman, Heroku, MapStruct. </h3></p>
 
 
 ><p>Spring Boot makes it easy to create stand-alone,
@@ -20,5 +22,10 @@
 ><p>Postman📨 is an API Client that makes it easy for developers to create, share, test, and document APIs.
 >This is done by allowing users to create and save simple and complex HTTP and HTTP requests, as well as read their responses.</p>
 #
+>[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
 ><p>Platform-as-a-service options help companies build and manage high-performance applications. A reliable <i>PaaS</i> offering can help developers achieve simplified API development and perform database, IoT, communications, and process management effortlessly.
 >Heroku is now considered one of the most trusted platforms as a service offering for businesses of all sizes. Take a look at the features, benefits and limitations of this popular platform mentioned below.</p>
+>https://blog.back4app.com/pt/o-que-e-o-heroku/
+#
+><p>According to official documentation, MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention approach to configuration. 
+>The generated mapping code uses simple method invocations and is therefore fast, secure and easy to understand.</p>
