@@ -23,7 +23,7 @@
 >This is done by allowing users to create and save simple and complex HTTP and HTTP requests, as well as read their responses.</p>
 #
 >[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
-><p>Platform-as-a-service options help companies build and manage high-performance applications. A reliable <a href=https://www.platon.com.br/blog/conheca-as-diferencas-entre-iaas-paas-e-saas-e-qual-modelo-ideal-para-o-seu-negocio/"<i>PaaS</a> offering can help developers achieve simplified API development and perform database, IoT, communications, and process management effortlessly.
+><p>Platform-as-a-service options help companies build and manage high-performance applications. A reliable <a href=https://www.platon.com.br/blog/conheca-as-diferencas-entre-iaas-paas-e-saas-e-qual-modelo-ideal-para-o-seu-negocio/">PaaS</a> offering can help developers achieve simplified API development and perform database, IoT, communications, and process management effortlessly.
  ><a href="https://blog.back4app.com/pt/o-que-e-o-heroku/"_blanck>Heroku</a> is now considered one of the most trusted platforms as a service offering for businesses of all sizes. Take a look at the features, benefits and limitations of this popular platform mentioned below.</p>
 
 >
