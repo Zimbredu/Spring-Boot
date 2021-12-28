@@ -23,9 +23,10 @@
 >This is done by allowing users to create and save simple and complex HTTP and HTTP requests, as well as read their responses.</p>
 #
 >[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
-><p>Platform-as-a-service options help companies build and manage high-performance applications. A reliable <i>PaaS</i> offering can help developers achieve simplified API development and perform database, IoT, communications, and process management effortlessly.
->Heroku is now considered one of the most trusted platforms as a service offering for businesses of all sizes. Take a look at the features, benefits and limitations of this popular platform mentioned below.</p>
->https://blog.back4app.com/pt/o-que-e-o-heroku/
+><p>Platform-as-a-service options help companies build and manage high-performance applications. A reliable <a href=https://www.platon.com.br/blog/conheca-as-diferencas-entre-iaas-paas-e-saas-e-qual-modelo-ideal-para-o-seu-negocio/"<i>PaaS</a> offering can help developers achieve simplified API development and perform database, IoT, communications, and process management effortlessly.
+ ><a href="https://blog.back4app.com/pt/o-que-e-o-heroku/"_blanck>Heroku</a> is now considered one of the most trusted platforms as a service offering for businesses of all sizes. Take a look at the features, benefits and limitations of this popular platform mentioned below.</p>
+
+>
 #
 ><p>According to official documentation, MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention approach to configuration. 
 >The generated mapping code uses simple method invocations and is therefore fast, secure and easy to understand.</p>
